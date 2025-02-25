@@ -1,6 +1,6 @@
 # Shenanigang-HZ25AMC-W3BC01
 ----------------------------------
--> PDF: [SFTix (1).pdf](https://github.com/user-attachments/files/18956411/SFTix.1.pdf)
+-> PDF: [SFTiX.pdf](https://github.com/user-attachments/files/18956411/SFTix.1.pdf)
 -> Deployed: [SFTix](https://shenanigang-hz-25-amc-w3-bc-01.vercel.app/)
 
 ## Problem Statement
